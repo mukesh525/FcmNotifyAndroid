@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1038438309195",
+    "firebase_url": "https://fcmnotification-486c3.firebaseio.com",
+    "project_id": "fcmnotification-486c3",
+    "storage_bucket": "fcmnotification-486c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038438309195:android:03b3f864d3e1fed1",
+        "android_client_info": {
+          "package_name": "com.example.mukesh.fcmnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038438309195-sfhb88qqpqd39pp2jujmm3ago8rdbvrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuo7T0vgORoWBCFLQ6QrGvQXR7UGlxUQQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038438309195-sfhb88qqpqd39pp2jujmm3ago8rdbvrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
